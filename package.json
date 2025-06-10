@@ -1,1 +1,29 @@
 
+{
+  "name": "zeze-md",
+  "version": "1.0.0",
+  "description": "zezee-MD is a greatest multi-device WhatsApp bot built using Baileys.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "baileys",
+    "zeze-md",
+    "toputech"
+  ],
+  "author": "zezetech",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.x"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.0",
+    "@hapi/boom": "^10.0.1",
+    "axios": "^1.4.0",
+    "dotenv": "^16.3.1",
+    "pino": "^8.19.0"
+  }
+}
