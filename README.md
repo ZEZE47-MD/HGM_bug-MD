@@ -13,8 +13,6 @@
 
  ## 👇¥DEPLOY TO HEROKU¥
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ZEZE47-MD/zeze)
- 
 
  <td align="center" width="50%">
       <h3>Official HGM channel</h3>
