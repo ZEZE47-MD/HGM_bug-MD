@@ -1,6 +1,4 @@
-# HGM_bug-MD
-
-<img src="https://img.shields.io/badge/APIs-blue?style=for-the-badge" alt="HGM_bug group">
+#HGM_bug-MD#
       </a>
     </td>
     <td align="center" width="50%">
