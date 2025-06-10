@@ -33,3 +33,14 @@
 | RENDER | <a href="https://dashboard.render.com/web/new" target="_blank"><img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=00ffaa"/></a></td> | 
 | NETLIFY | <a href="https://app.netlify.com/" target="_blank"><img src="https://img.shields.io/badge/Netlify-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000"/></a></td> |
         
+
+***For Developer Please Support Here🙏✔️***
+- <a href="https://www.instagram.com/dullahssalum"><img title="Author" src="https://img.shields.io/badge/ON INSTAGRAM-black?style=for-the-badge&logo=Instagram"></a>
+- <a href="https://www.tiktok.com/@dallas387"><img title="Author" src="https://img.shields.io/badge/ON TikTok-black?style=for-the-badge&logo=tiktok"></a>
+- <a
+href="https://www.facebook.com/100087010467670"><img title="Author" src="https://img.shields.io/badge/ON Facebook-blue?style=for-the-badge&logo=facebook"></a>
+- <a
+href="https://wa.me/255716945971"><img title="Author" src="https://img.shields.io/badge/ON WhatsApp-pupple?style=for-the-badge&logo=watsapp"></a>
+- <a href="https://chat.whatsapp.com/CP2BirU5pBj04cXXgEbfuv"><img title="Author" src="https://img.shields.io/badge/ON Wa Group-green?style=for-the-badge&logo=watsapp"></a>
+- <a href="https://youtube.com/@herokuplatform?si=kl684fKNUpxTFig2"><img title="Author" src="https://img.shields.io/badge/ON YouTube-darkred?style=for-the-badge&logo=youtube"></a>
+
