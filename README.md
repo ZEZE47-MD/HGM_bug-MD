@@ -11,3 +11,8 @@
   </tr>
 </table>
         
+<td align="center" width="50%">
+      <h3>Official kingdom channel</h3>
+      <p>Visit Kingdom's official channel</p>
+      <a href="https://whatsapp.com/channel/0029Vb6CC2dB4hdPp1CrYv0f">
+        <img src="https://img.shields.io/badge/Website-ff69b4?style=for-the-badge" alt="Official Website">
