@@ -1,6 +1,6 @@
 const axios = require("axios");
 
-const aliases = ["song", "mp3", "getsong"]; // support multiple aliases
+const aliases = ["music", "mp3", "getsong"]; // support multiple aliases
 
 module.exports = async ({ sock, msg, from, command, args }) => {
   if (!aliases.includes(command)) return;
@@ -10,13 +10,13 @@ module.exports = async ({ sock, msg, from, command, args }) => {
     forwardingScore: 999,
     isForwarded: true,
     externalAdReply: {
-      title: "🎵 Song Downloader",
-      body: "100bug-MD WhatsApp Bot",
+      title: "🎵 music Downloader",
+      body: "HGM_bug-MD WhatsApp Bot",
       thumbnailUrl: "https://telegra.ph/file/fe6e7d401b0e08d6937f4.jpg",
       mediaType: 1,
       renderLargerThumbnail: true,
       showAdAttribution: true,
-      sourceUrl: "https://whatsapp.com/channel/0029VaeRrcnADTOKzivM0S1r"
+      sourceUrl: "https://whatsapp.com/channel/0029VbANIT5D8SDpK7oExi1v"
     }
   };
 
