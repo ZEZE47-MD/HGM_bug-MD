@@ -11,12 +11,12 @@ module.exports = async ({ sock, msg, from, command, args }) => {
     isForwarded: true,
     externalAdReply: {
       title: "🎬 Video Downloader",
-      body: "100bug-MD WhatsApp Bot",
+      body: "HGM_bug-MD WhatsApp Bot",
       thumbnailUrl: "https://telegra.ph/file/fe6e7d401b0e08d6937f4.jpg",
       mediaType: 1,
       renderLargerThumbnail: true,
       showAdAttribution: true,
-      sourceUrl: "https://whatsapp.com/channel/0029VaeRrcnADTOKzivM0S1r"
+      sourceUrl: "https://whatsapp.com/channel/0029VbANIT5D8SDpK7oExi1v"
     }
   };
 
