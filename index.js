@@ -1,4 +1,4 @@
-aconst {
+const {
   default: makeWASocket,
   DisconnectReason,
   fetchLatestBaileysVersion,
