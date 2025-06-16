@@ -172,7 +172,7 @@ startBot().catch((err) => {
 // Dummy HTTP server to keep bot alive
 http.createServer((req, res) => {
   res.writeHead(200, { 'Content-Type': 'text/plain' });
-  res.end('🤖 The100-Bug-MD bot is alive.\n');
+  res.end('🤖 HGM_Bug-MD bot is alive.\n');
 }).listen(process.env.PORT || 3000, () => {
   console.log('🌐 HTTP server running to keep dyno alive');
 });
